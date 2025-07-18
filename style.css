@@ -1,0 +1,459 @@
+header{
+text-align: center;
+padding: 10px;
+background-color: lightgray;
+top: 0%;
+right: 0%;
+left: 0%;
+}
+header a {
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 15px;
+    color: black ;
+    padding-bottom: 10px;
+    border: none;
+}
+.digi{
+    margin-right: 140px;
+}
+.signin{
+    color: orange;
+}
+.signup{
+    border-radius: 20px;
+    background-color: orange;
+    border: none;
+    height: 40px;
+    width: 100px;
+    color: white;
+    margin-left: 10px;
+}
+.Search{
+    border-radius: 50%;
+    background-color: orange;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.search:hover{
+    background-color: black;
+    color: white;
+}
+button{
+    border: none;
+    border-radius: 20px;
+    background-color: orange;
+    height: 40px;
+    width: 130px;
+    color: white;
+    cursor: pointer;
+}
+.arrows{
+    color: white;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.btn1:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.btn2{
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    margin-left: 44%;
+    margin-top: 10px;
+}
+header a:hover{
+    color: orange;
+    border-bottom: 2px solid orange;
+}
+span{
+    color: orange;
+}
+.img{
+    height: 250px;
+    width: 0px;
+    background-color: #333;
+    margin-top: 30px;
+    padding: 10px;
+}
+.div1{
+    display: flex;
+}
+.img1{
+    height: 200px;
+    width: 150px;
+    background-color: #333;
+    margin-left: 10px;
+    margin-top: 30px;
+     color: white;
+    padding: 30px;
+text-align: center;
+border-radius: 10px;
+transition: width 2s, height 2s;
+}
+.img1:hover{
+      width: 160;
+      height: 210;
+}
+.img2{
+    height: 200px;
+    width: 150px;
+    background-color: #333;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 30px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    transition: width 2s, height 2s;
+}
+.img2:hover{
+    width: 160px;
+    height: 210px;
+}
+.img3{
+    margin-top: 30px;
+    height: 200px;
+    text-align: center;
+    border-radius: 10px;;
+    color: white;
+    width: 150px;
+    background-color: #333;
+    margin-left: 10px;
+    padding: 30px;
+transition: width 2s, height 2s;
+}
+.img3:hover{
+    width: 160;
+    height: 210;
+}
+.div2{
+    display: flex;
+}
+.img4{
+    height: 250px;
+    width: 200px;
+    background-color: orange;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px;  
+    text-align: center;
+    border-radius: 10px; 
+    transition: width 2s, height 2s;
+}
+.img4:hover{
+    width: 160;
+    height: 210;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.container{
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.top button{
+    height: fit-content;
+    padding: 10px;
+    border: none;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+}
+.card{
+    height: 250px;
+    width: 200px;
+    border: 2px solid black;
+}
+.card p {
+    margin-left: 10px;
+    font-weight: bold;
+}
+.card p:hover{
+    color: orange;
+}
+  .main{
+    display: flex;
+  }
+  .btn{
+    border: none;
+    border-radius: 20px;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    margin-left: 40%;
+    margin-top: 20px;
+  } 
+  .about{
+    height: 500px;
+    width: 500px;
+    margin-left: 40px;
+  }
+  .about p{
+    line-height: 40px;
+  }
+  h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+  }
+  p{
+    font-size: 21px;
+  }
+.main1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    }
+    .viewall{
+    margin-left: 40%;
+    margin-top: 20px;
+    }
+    .divdate{
+        height: 160px;
+        width: 160px;
+        text-align: center;
+        padding-top: 50px;
+        font-size: 33px;
+        line-height: 0px;
+    }
+    .date{
+        color: orange;
+    }
+    .divimage{
+        height: 180px;
+        width: 320px;
+        margin-top: 25px;
+        border: 1px solid black;
+    }
+    .divparah{
+        width: 600px;
+        height: 100px;
+
+    }
+    .cardmain{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 50px;
+    }
+.divparah h2:hover{
+    color: orange;
+    cursor: pointer;
+}
+.divparah a{
+    text-decoration: none;
+    color: orange;
+}
+.p{
+    color: orange;
+}
+.btn1{
+    height: fit-content;
+    padding: 10px;
+    border: none;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.ptm{
+    display: flex;
+    justify-content: space-between;
+}
+.btn2{
+    height: fit-content;
+    padding: 10px;
+    border: none;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.btn2:hover{
+    background-color: black;
+}
+.div12{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+.div13{
+    height: 60px;
+    width: 250px;
+    margin-top: 20px;
+}
+footer{
+    background-color: black;
+    height: 350px;
+    margin-top: 90px;
+}
+.div14{
+    display: flex;
+    flex-direction: column;
+}
+.div14 a{
+    text-decoration: none;
+    color: white;
+}
+.parahh{
+    color: orange;
+}
+.parahh1{
+    color: white;
+    text-align: center;
+}
+.img12{
+    height: 30px;
+    width: 30px;
+}
+.main{
+    display: flex;
+}
+.card1{
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+.card2{
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+.card3{
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+.card4{
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+.card5{
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+}.card6{
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+.card7{
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+.card8{
+    height: 350px;
+    width: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+.cardimg{
+    width: 300px;
+    height: 170px;
+ transition: width 2s, height 2s;
+}
+.cardimg:hover{
+    width: 305px;
+    height: 175px;
+}
+.card1 p{
+    margin-left: 10px;
+    padding-bottom: 75px;
+}
+.card2 p{
+    margin-left: 10px;
+    padding-bottom: 75px;
+}
+.card3 p{
+    margin-left: 10px;
+    padding-bottom: 75px;
+}
+.card4 p{
+    margin-left: 10px;
+    padding-bottom: 75px;
+}
+.card5 p{
+   
+    margin-left: 10px;
+    padding-bottom: 75px;
+}
+.card6 p{
+    
+    margin-left: 10px;
+    padding-bottom: 75px;
+}
+.card7 p{
+    
+    margin-left: 10px;
+    padding-bottom: 75px;
+}
+.card8 p{
+    margin-left: 10px;
+    padding-bottom: 75px;
+}
+.card p:hover{
+    color: orange;
+}
+.vd{
+    font-weight: bold;
+    text-decoration: none;
+    color: green;
+    font-size: 13px;
+    margin-left: 5px;
+}
+.vdnumber{
+    text-decoration: none;
+    font-size: 12px;
+    color: black;
+
+}
+.vdnum{
+
+    display: flex;
+    justify-content: space-around;
+}
+.info{
+    text-decoration: none;
+    color: orange;
+}
+footer a:hover{
+   color: orange;
+}
+.divparah a{
+    text-decoration: none ;
+    color: orange;
+    font-size: 14px;
+    font-weight: bold ;
+}
+.f:hover{
+    color: orange;
+    cursor: pointer;
+}
+.f{
+    font-weight: bold;
+}
